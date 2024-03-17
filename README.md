@@ -28,7 +28,7 @@ Quick Start
 -----------
 
 ```shell
-$ git clone https://github.com/r-park/soundcloud-redux.git
+$ git clone https://github.com/compiledcode83/soundcloud-redux.git
 $ cd soundcloud-redux
 $ npm install
 $ npm start
